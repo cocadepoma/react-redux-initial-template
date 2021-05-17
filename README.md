@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Template React with Redux and Redux thunk.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
